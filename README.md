@@ -1,2 +1,19 @@
-# abdulrahmanalsaudi2-gmail.com
-Personal website - Abdulrahman Tariq Alsaudi
+# موقع عبدالرحمن طارق السعودي
+
+صفحة شخصية عربية متجاوبة ومهيأة مبدئيًا لمحركات البحث.
+
+## الملفات
+- `index.html` الصفحة الرئيسية
+- `style.css` التنسيقات
+- `script.js` وظائف القائمة والسنة
+- `assets/profile.jpg` الصورة الشخصية
+- `robots.txt` إرشادات محركات البحث
+- `sitemap.xml` خريطة الموقع
+
+## النشر على GitHub Pages
+ارفع الملفات إلى المستودع الذي تريد استخدامه، ثم فعّل GitHub Pages من:
+Settings → Pages → Deploy from a branch
+
+بعد النشر، تأكد من تحديث `canonical` و`og:url` و`Sitemap` إذا كان رابطك مختلفًا.
+
+ملاحظة: ظهور الصورة والبيانات في نتائج Google يحتاج إلى أن تتم فهرسة الموقع، ولا يمكن ضمان شكل النتيجة أو زمن ظهورها.
